@@ -1,3 +1,26 @@
+// call in dependencies
+const express = require('express');
+const path = require('path');
+// setup asynchronous processes?
+// setup server
+const app = express();
+const PORT = 3001;
+// Middleware for parsing JSON and urlencoded form data
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+app.use('/api', api);
+app.use(express.static('./develop/public'));
+
+// setup GET Request
+// setup POST Request
+// setup DELETE Request
+// setup HTML routes for both  index and notes files
+
+
+
+
+
+
 // GIVEN a note-taking application
 
 // WHEN I open the Note Taker
