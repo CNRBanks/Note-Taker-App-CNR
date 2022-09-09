@@ -17,7 +17,7 @@ This app allows users to enter notes on their browser and have their data saved 
 
 # Preview
 
-![App Preview](./src/Images/preview.png "App Preview")
+![App Preview](./src/preview.png "App Preview")
 
 # Installation
 
@@ -42,7 +42,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - W3Schools JavaScript - https://my-learning.w3schools.com/tutorial/js
 - W3Schools Node JS - https://my-learning.w3schools.com/tutorial/nodejs
 - Heroku - https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app
-
-
-
-
